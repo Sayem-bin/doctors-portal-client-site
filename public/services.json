@@ -1,0 +1,20 @@
+[
+    {
+        "id": "01",
+        "img": "https://i.ibb.co/LvqrxwG/cavity.png",
+        "name": "Fluoride Treatment",
+        "description": "Fluoride treatments are typically professional treatments containing a high concentration of fluoride that a dentist or hygienist will apply to a persons teeth to improve health and reduce the risk of cavities."
+    },
+    {
+        "id": "02",
+        "img": "https://i.ibb.co/LvqrxwG/cavity.png",
+        "name": "Cavity Filling",
+        "description": "Amalgam Fillings: Amalgam has been used by dental professionals for more than a century; it is the most researched material used for filling cavities."
+    },
+    {
+        "id": "03",
+        "img": "https://i.ibb.co/2FC9yZg/whitening.png",
+        "name": "Teeth Whitening",
+        "description": "Teeth whitening involves bleaching your teeth to make them lighter. It can not make your teeth brilliant white, but it can lighten the existing colour by several"
+    }
+]
